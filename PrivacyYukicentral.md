@@ -46,4 +46,4 @@ Verwijder je de extensie in chrome://extensions, dan verdwijnen de instellingen 
 Contact
 -------
 
-Vragen over dit beleid: [CONTACTADRES INVULLEN].
+Vragen over dit beleid: olivier@yuki.be.
