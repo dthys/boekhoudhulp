@@ -1,0 +1,49 @@
+Privacybeleid YC++
+==================
+
+Laatst bijgewerkt: 16 oktober 2026
+
+YC++ is een Chrome-extensie voor medewerkers van Yuki Support. Ze maakt het werk in Yuki Central sneller en opent vanuit een Freshdesk-ticket het juiste dossier in Yuki Central. Dit beleid beschrijft welke gegevens de extensie gebruikt, waarvoor, en wat ze er nooit mee doet.
+
+Welke gegevens de extensie gebruikt
+-----------------------------------
+
+De extensie werkt alleen op deze websites: Yuki Central (yukicentral.yukiworks.be), de Yuki-domeinen (*.yukiworks.be) en de Freshdesk-omgeving van Yuki (yuki.freshdesk.com, support.yuki.be).
+
+- Freshdesk-tickets. De extensie leest op de ticketpagina het ticketnummer, het veld Domeinnaam, het onderwerp, het e-mailadres en de bedrijfsnaam van de aanvrager, en links naar Yuki-domeinen in het ticket. Is dat niet genoeg, dan leest ze via Freshdesk zelf, met je eigen aanmelding, het gesprek van dat ene ticket: de berichten en notities en de e-mailadressen in cc. Ze leest nooit andere tickets of contactpersonen. Daarmee bepaalt ze welk dossier bij het ticket hoort.
+- Yuki Central. De extensie leest de lijsten van Central (domeinen, administraties, accountants) om zoekresultaten te tonen en het juiste dossier te kiezen. Om Central sneller te laten opstarten, bewaart ze een aantal opstartantwoorden van Central in de browser: bijvoorbeeld het menu, meldingen en de gegevens van de aangemelde gebruiker.
+- Instellingen. De extensie bewaart je instellingen (zoals automatisch bewaren, kleurenthema en de positie van de knop), en per ticket het domein dat je koos. Dat laatste gebeurt voor hooguit 300 tickets.
+
+Waar de gegevens blijven
+------------------------
+
+Alle gegevens blijven op je eigen computer:
+
+- de instellingen en de gekozen domeinen in de opslag van de extensie (chrome.storage);
+- de opstartantwoorden van Central in de opslag van je browser voor yukicentral.yukiworks.be, hooguit 12 uur, en leeggemaakt bij afmelden;
+- de lopende zoekopdracht, in het tabblad zelf en hooguit 2 minuten.
+
+De extensie stuurt geen gegevens naar de ontwikkelaar of naar derden, en gebruikt geen servers van de ontwikkelaar. De enige netwerkaanvragen die ze doet, zijn leesaanvragen met je eigen aanmelding naar de site waarop je werkt: naar Yuki Central, zoals Central die ook doet wanneer je een lijst opent, en naar Freshdesk, voor het ticket dat je open hebt (één keer per ticket).
+
+Wat de extensie nooit doet
+--------------------------
+
+- Gegevens verkopen, delen met of doorgeven aan derden.
+- Gegevens gebruiken voor reclame, profilering of kredietwaardigheid, of voor iets anders dan de functies hierboven.
+- Iets wijzigen in Freshdesk.
+- Iets bewaren in Yuki Central zonder jouw handeling. De enige uitzondering is de supporttoegang, en die wordt alleen bewaard als je zelf op Bewaren klikt of automatisch bewaren zelf hebt aangezet.
+
+Beperkt gebruik (Limited Use)
+-----------------------------
+
+Het gebruik van informatie die de extensie via Chrome-API's ontvangt, voldoet aan het Chrome Web Store User Data Policy (https://developer.chrome.com/docs/webstore/program-policies/user-data-faq), inclusief de vereisten voor beperkt gebruik ("Limited Use").
+
+Gegevens verwijderen
+--------------------
+
+Verwijder je de extensie in chrome://extensions, dan verdwijnen de instellingen en de gekozen domeinen. De opstartantwoorden van Central wis je door je af te melden bij Central of door de sitegegevens van yukicentral.yukiworks.be te wissen.
+
+Contact
+-------
+
+Vragen over dit beleid: [CONTACTADRES INVULLEN].
